@@ -145,7 +145,3 @@ jupyter notebook python/Ecommerce_EDA.ipynb
 This project demonstrates how structured data modeling and visualization can uncover actionable insights in user behavior, helping businesses optimize conversion funnels and improve revenue performance.
 
 ---
-
-## Author
-
-Your Name

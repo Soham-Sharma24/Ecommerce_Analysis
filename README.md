@@ -95,9 +95,9 @@ This project aims to answer:
 
 ## Dashboard
 
-Add your dashboard screenshot in the images folder and reference it here:
 
-![Dashboard](images/dashboard.png)
+
+![Dashboard](Images/dashboard.png)
 
 ---
 
